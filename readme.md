@@ -1,4 +1,5 @@
 Othello bot using Q-learning in python (tensorflow) for sem 5 course.
+
 | Nama                     | NIM        | LinkedIn                                                       |
 |:------------------------ |:---------- |:-------------------------------------------------------------- |
 | Richard Putra            | 2101630280 | https://www.linkedin.com/in/richard-putra                      |
